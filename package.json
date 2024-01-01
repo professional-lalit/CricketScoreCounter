@@ -1,0 +1,12 @@
+{
+  "name": "cricket",
+  "version": "1.0.0",
+  "description": "Counts the cricket score",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "crickbuzz"
+  },
+  "author": "Lalit Hajare",
+  "license": "ISC"
+}
